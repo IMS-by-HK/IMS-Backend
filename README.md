@@ -7,9 +7,11 @@ To start the MongoDB server:\
 Mac: `brew services start mongodb-community`\
 WSL: `sudo service mongod start`
 
-Check status:\
-`brew services list`\
-`sudo service mongod status`
+Check status: \
+Mac: `brew services list`\
+WSL: `sudo service mongod start`
+
+
 ---
 Initalising/dependencies installed:
 - `npm init -y`
