@@ -4,7 +4,7 @@ Command to run server:\
 `npm run dev`
 
 To start the MongoDB server:\
-Mac: `brew services start mongodb-community`\ 
+Mac: `brew services start mongodb-community`\
 WSL: `sudo service mongod start`
 
 Check status:\
