@@ -21,7 +21,7 @@ Database connection:\
 To seed database:\
 `npm run seed`
 
-To check db has connected in the terminal:\
+To check db has connected in the terminal:
 
 Open MongoDB shell:\
 `mongosh`\
@@ -29,5 +29,5 @@ See databases available:\
 `show dbs`\
 Switch to database being used:\
 `use ims-backend`\
-Show products listed in db from seed function:\ 
+Show products listed in db from seed function:\
 `db.products.find()`
